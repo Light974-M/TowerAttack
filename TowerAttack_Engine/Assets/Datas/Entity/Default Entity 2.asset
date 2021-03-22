@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31464b7e7a4c93442bb76a8b28cecdde, type: 3}
+  m_Name: Default Entity 2
+  m_EditorClassIdentifier: 
+  _life: 110
+  _nameEntity: TourTesr
+  _type: 1
+  _popAmount: 1
+  _actions:
+  - {fileID: 11400000, guid: 95ace4ffb2dfd3846adae0f9aa520004, type: 2}
+  level: 0
+  numberPop: 1
